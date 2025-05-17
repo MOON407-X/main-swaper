@@ -129,6 +129,12 @@ p{
   background: linear-gradient(to right, rgb(18, 22, 84), rgb(29, 36,157)49%, rgb(40,49,186)100%);
   background-clip:text;
 }
+.download{
+  margin-left:3em;
+}
+.download img{
+  max-width:7vw;
+}
 .explore-btn{
   color:white;
   font-family:inter;
