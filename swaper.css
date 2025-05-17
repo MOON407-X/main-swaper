@@ -48,6 +48,7 @@ nav ul li{
 nav ul li:hover{
   font-size:25px;
 }
+  /**comment
 .btn-container{
   display:flex;
   justify-content:space-between;
@@ -85,7 +86,7 @@ nav ul li:hover{
 .log-in:hover{
   background-color:rgba(194, 194, 194, 0.377);
   color:black;
-}
+} **/
   /**Header End**/
 
   /**Home Background**/
